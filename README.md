@@ -10,3 +10,6 @@ A dashboard for visualizing data from [Google Calendar](https://developers.googl
 ## Tools
 - Python and React/JS
 - Might want to use Flask
+
+## See also
+- [NASA playbook](https://www.isabelngan.com/design-work/nasa-playbook)
